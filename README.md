@@ -18,7 +18,7 @@ A responsive Analog Clock built using HTML, CSS, and JavaScript. It displays the
 
 ## Preview
 
-![Analog Clock Screenshot](screenshot.png)
+![Analog Clock Screenshot](analog-clock.jpeg)
 
 ## Author
 
